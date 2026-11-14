@@ -20,7 +20,3 @@ I'm a Computer Science student at Aalborg University (AAU), interested in softwa
 - Functional programming with Haskell
 - Database systems and query execution
 - Geospatial data processing and GeoSPARQL
-
-### Find me
-
-- [GitHub](https://github.com/LouiseWolff17)
