@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Louise!
 
-<!--
-**LouiseWolff17/LouiseWolff17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Aalborg University (AAU), interested in software development, databases and data systems.
 
-Here are some ideas to get you started:
+### What I'm working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Rust, Haskell, Python, SQL
+- **Databases & data:** RDF, SPARQL, GeoSPARQL, DataFusion
+- **Technologies:** GeoArrow, WebAssembly, Leptos
+- **Interests:** Database systems, data engineering, semantic web and spatial data processing
+
+### Featured projects
+
+- [**RDF-Fusion**](https://github.com/WebVOWL/rdf-fusion) – Contributing to RDF-Fusion, with a focus on typed families and GeoSPARQL geometry support.
+- **WebVOWL Reimagined** – Working on a modernized ontology visualization application using Rust, Leptos and WebAssembly.
+- **Haskell-Town** – A cozy city-building game designed to teach Haskell through progressively challenging programming tasks.
+
+### Currently learning
+
+- Functional programming with Haskell
+- Database systems and query execution
+- Geospatial data processing and GeoSPARQL
+
+### Find me
+
+- [GitHub](https://github.com/LouiseWolff17)
