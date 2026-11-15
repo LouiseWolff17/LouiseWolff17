@@ -107,7 +107,7 @@ Exploring interactive ontology visualization with Rust and WebAssembly.
 <td width="50%" valign="top">
 
 <sub>♡ N° 03</sub>
-### Haskell-Town 🏡
+### Haskell-Town
 
 *A cozy city-building game that teaches Haskell.*
 
@@ -121,11 +121,11 @@ Grow your little town by solving progressively challenging programming tasks.
 <td width="50%" valign="top">
 
 <sub>♡ N° 04</sub>
-### More to explore ✨
+### More to explore
 
 *Experiments, uni projects & exercises.*
 
-A growing garden of small ideas and things learned along the way — always something new blooming.
+A growing garden of small ideas and things learned along the way - always something new blooming.
 
 [**✧ Browse repositories ↗**](https://github.com/LouiseWolff17?tab=repositories)
 
