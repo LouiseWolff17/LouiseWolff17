@@ -141,14 +141,14 @@ A growing garden of small ideas and things learned along the way - always someth
 <tr>
 <td width="50%" valign="top">
 
-🩷 &nbsp;Functional programming & Haskell<br/>
-🩷 &nbsp;Database systems & query execution
+- &nbsp;Functional programming & Haskell<br/>
+- &nbsp;Database systems & query execution
 
 </td>
 <td width="50%" valign="top">
 
-💜 &nbsp;Geospatial data processing<br/>
-💜 &nbsp;Semantic web technologies
+- &nbsp;Geospatial data processing<br/>
+- &nbsp;Semantic web technologies
 
 </td>
 </tr>
